@@ -1,0 +1,30 @@
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+
+body{
+    background-color: rgb(161, 188, 210);
+}
+
+.content{
+    background-color: white;
+    max-width: 600px;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+
+.title_small{
+    font-size: 15px;
+
+}
+    
+
+   
+label{
+    font-size: 15px;
+    
+}

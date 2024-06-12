@@ -1,0 +1,88 @@
+.hero_section{
+    background-image: url(images.jpg);
+    min-height: 100vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.text_container{
+color: BLACK;
+max-width: 900px;
+margin: 0 auto;
+padding-top: 64px;
+padding-left: 16px;
+}
+
+.lg_text{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400PX;
+}
+
+.Black_box{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.size{
+    font-weight: 400;
+    font-size: 150px;
+}
+
+.work{
+display: grid;
+grid-template-columns: repeat(auto-fit,minmax(320px , 1frs));
+}
+
+.card{
+    max-width: 320px;
+    height: 400px;
+    border-radius: 10px;
+    
+}
+
+.buttom_section{
+  display: flex;
+}
+
+.contact{
+    background-color: green;
+}
+
+.about{
+    background-color: brown;
+}
+
+.contact,
+.about{
+    min-height: 300px;
+    padding: 32px;
+    color: white;
+}
+
+.about p,
+.contact p{
+    margin-bottom: 20px;
+
+}
+
+.about h2,
+.contact h2{
+    font-size: 64px;
+    font-weight: 300;
+}
+
+footer{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #000;
+    color: white;
+    padding: 20px;
+}

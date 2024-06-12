@@ -1,0 +1,32 @@
+.text{
+    text-align: end;
+}
+
+table{
+    text-align: center;
+}
+
+#text{
+    text-align: start;
+}
+
+.section{
+    text-align: center;
+}
+
+.h1{
+    font-size: large;
+}
+
+td3{
+    margin-left: 260px;
+}
+
+.margin{
+    margin-left: 220px;
+
+}
+
+.start{
+    text-align: start;
+}

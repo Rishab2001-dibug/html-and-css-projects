@@ -1,0 +1,19 @@
+table{
+    text-align: center;
+}
+
+.orange{
+    background-color: rgb(250, 214, 147);
+}
+
+.green{
+    background-color: rgb(36, 255, 36);
+}
+
+.pink{
+    background-color: rgb(243, 51, 201);
+}
+
+.grey{
+    background-color: rgb(206, 201, 201);
+}
